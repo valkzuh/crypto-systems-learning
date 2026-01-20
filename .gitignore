@@ -73,6 +73,19 @@ out/
 test-ledger/
 .anchor/
 
+# EVM/Foundry
+cache/
+out/
+broadcast/
+lib/
+.gas-snapshot
+lcov.info
+
+# Hardhat
+artifacts/
+typechain/
+typechain-types/
+
 # JavaScript/TypeScript
 *.tsbuildinfo
 .turbo/
